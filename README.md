@@ -85,13 +85,6 @@ My goal is to continuously evolve as a developer, gain professional experience, 
 
 <div align="left">
 
-**GitHub:** [@gmaiadevv](https://github.com/gmaiadevv)
-**LinkedIn:** [gustavo-maia-serrano](https://www.linkedin.com/in/gustavo-maia-serrano)
-**Email:** [gustavom.serranoo@gmail.com](mailto:gustavom.serranoo@gmail.com)
-
-</div>
-
----
 
 <div align="center">
 
