@@ -1,49 +1,48 @@
-# 👋 Olá, eu sou o Gustavo!
+# 👋 Hello, I'm Gustavo!
 
-<img align="right" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=00E5FF&width=350&lines=Computer+Science+Student;Java+Developer+in+Progress;Learning+%26+Building;Always+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+<img align="right" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=00E5FF&width=350&lines=Computer+Science+Student;Java+Developer+in+Progress;Learning+%26+Building;Always+Improving+%F0%9F%9A%80" alt="Typing Animation" />
 
-🎓 Estudante de **Ciência da Computação** e apaixonado por tecnologia, programação e desenvolvimento de software.
+🎓 Computer Science student passionate about technology, programming, and software development.
 
-Atualmente estou construindo uma base sólida em **Java, lógica de programação, SQL e desenvolvimento de sistemas**, sempre buscando transformar o que estudo em projetos práticos.
+Currently building a solid foundation in **Java, programming logic, SQL, and software development**, always looking to turn what I learn into practical projects.
 
-Tenho como objetivo evoluir constantemente como desenvolvedor, adquirir experiência profissional e construir uma carreira sólida na área de tecnologia.
+My goal is to continuously evolve as a developer, gain professional experience, and build a solid career in technology.
 
 <br clear="right"/>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 About Me
 
-* 👨‍💻 Estudante de **Ciência da Computação**
-* 🎓 Atualmente no **2º semestre**
-* ☕ Estudando e desenvolvendo projetos com **Java**
-* 🧠 Desenvolvendo fundamentos de **lógica de programação**
-* 🗄️ Estudando **SQL e bancos de dados**
-* 🐙 Utilizando **Git e GitHub** para versionamento e projetos
-* 📊 Possuo conhecimentos em **Excel e ferramentas do Microsoft Office**
-* 🚀 Buscando minha **primeira oportunidade na área de tecnologia**
-* 📚 Sempre procurando aprender algo novo e transformar conhecimento em prática
+* 👨‍💻 **Computer Science** student
+* 🎓 Currently in my **2nd semester**
+* ☕ Studying and developing projects with **Java**
+* 🧠 Developing strong foundations in **programming logic**
+* 🗄️ Studying **SQL and databases**
+* 🐙 Using **Git and GitHub** for version control and projects
+* 📊 Knowledge of **Excel and Microsoft Office**
+* 🚀 Looking for my **first opportunity in technology**
+* 📚 Always learning something new and turning knowledge into practice
 
 ---
 
-## 🛠️ Conjunto de tecnologias
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Linguagens
+### 💻 Programming
 
 <img src="https://skillicons.dev/icons?i=java&theme=dark" />
 
 <br><br>
 
-
-### 🔧 Ferramentas
+### 🔧 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" />
 
 <br><br>
 
-### 📊 Produtividade
+### 📊 Productivity
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
@@ -51,37 +50,57 @@ Tenho como objetivo evoluir constantemente como desenvolvedor, adquirir experiê
 
 </div>
 
-> Os níveis representam meu estágio atual de estudo e familiaridade, não uma avaliação técnica formal.
+---
 
-* ☕ Aprofundando meus conhecimentos em **Java**
-* 🧠 Evoluindo em **lógica e resolução de problemas**
-* 🗄️ Praticando **SQL e bancos de dados**
-* 🐙 Aprimorando meu uso de **Git e GitHub**
-* 🤖 Explorando **Inteligência Artificial e IA Generativa**
-* 💻 Desenvolvendo projetos para consolidar meus conhecimentos
+## 🌱 Currently Learning
 
+* ☕ Deepening my knowledge of **Java**
+* 🧠 Improving **programming logic and problem-solving**
+* 🗄️ Practicing **SQL and databases**
+* 🐙 Improving my workflow with **Git and GitHub**
+* 🤖 Exploring **Artificial Intelligence and Generative AI**
+* 💻 Building projects to strengthen my technical skills
 
+---
 
-## 📫 Conecte-se comigo
+<div align="left">
 
-<div align="center">
+## 📫 Connect With Me
 
 <a href="https://github.com/gmaiadevv">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/>
 </a>
-
-  
-
+&nbsp;
 <a href="https://www.linkedin.com/in/gustavo-maia-serrano">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"/>
 </a>
-
-  
-
+&nbsp;
 <a href="mailto:gustavom.serranoo@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45"/>
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40"/>
 </a>
 
 </div>
 
+<br>
 
+<div align="left">
+
+**GitHub:** [@gmaiadevv](https://github.com/gmaiadevv)
+**LinkedIn:** [gustavo-maia-serrano](https://www.linkedin.com/in/gustavo-maia-serrano)
+**Email:** [gustavom.serranoo@gmail.com](mailto:gustavom.serranoo@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### `while(alive) { learn(); build(); improve(); }`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00E5FF,50:171717,100:050505" width="100%"/>
+
+<sub>Built with ☕, curiosity and code.</sub>
+
+</div>
