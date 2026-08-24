@@ -84,16 +84,3 @@ My goal is to continuously evolve as a developer, gain professional experience, 
 <br>
 
 <div align="left">
-
-
-<div align="center">
-
-### `while(alive) { learn(); build(); improve(); }`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00E5FF,50:171717,100:050505" width="100%"/>
-
-<sub>Built with ☕, curiosity and code.</sub>
-
-</div>
