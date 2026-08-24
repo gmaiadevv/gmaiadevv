@@ -32,7 +32,7 @@ Tenho como objetivo evoluir constantemente como desenvolvedor, adquirir experiê
 
 ### 💻 Linguagens
 
-<img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java&theme=dark" />
 
 <br><br>
 
