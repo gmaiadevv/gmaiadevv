@@ -36,11 +36,6 @@ Tenho como objetivo evoluir constantemente como desenvolvedor, adquirir experiê
 
 <br><br>
 
-### 🗄️ Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
-<br><br>
 
 ### 🔧 Ferramentas
 
@@ -56,24 +51,6 @@ Tenho como objetivo evoluir constantemente como desenvolvedor, adquirir experiê
 
 </div>
 
----
-
-## 🌱 Atualmente aprendendo
-
-```text
-┌──────────────────────────────────────────────────┐
-│                 CURRENTLY LEARNING                │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│  ☕ Java                    █████████░░  80%      │
-│  🧠 Lógica de Programação  █████████░░  80%      │
-│  🗄️ SQL                    ███████░░░░  65%      │
-│  🐙 Git & GitHub            ██████░░░░░  60%      │
-│  🐍 Python                  ████░░░░░░░  40%      │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
-
 > Os níveis representam meu estágio atual de estudo e familiaridade, não uma avaliação técnica formal.
 
 * ☕ Aprofundando meus conhecimentos em **Java**
@@ -83,119 +60,7 @@ Tenho como objetivo evoluir constantemente como desenvolvedor, adquirir experiê
 * 🤖 Explorando **Inteligência Artificial e IA Generativa**
 * 💻 Desenvolvendo projetos para consolidar meus conhecimentos
 
----
 
-## 🚀 Projetos
-
-### 🛒 Mini Mercado — Sistema em Java
-
-Sistema desenvolvido para praticar conceitos de programação orientada a objetos e manipulação de dados.
-
-**Principais funcionalidades:**
-
-* 📦 Cadastro e gerenciamento de produtos
-* 👤 Cadastro de clientes
-* 🛍️ Realização de compras
-* 📊 Controle de estoque
-* 📄 Leitura e gravação de arquivos CSV
-* 🧠 Organização do código utilizando classes e métodos
-
-**Tecnologias:**
-
-`Java` `OOP` `ArrayList` `CSV` `File I/O`
-
-<br>
-
-### 💰 Folha de Pagamento
-
-Projeto desenvolvido em Java para praticar estruturas de dados, classes, objetos e diferentes tipos de funcionários.
-
-**Conceitos utilizados:**
-
-* 👨‍💼 Funcionários
-* 💵 Salário base
-* 📈 Comissionados
-* 🏭 Funcionários de produção
-* 🧱 Programação Orientada a Objetos
-* 📋 ArrayList
-
-**Tecnologias:**
-
-`Java` `OOP` `ArrayList`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmaiadevv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmaiadevv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gmaiadevv&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gmaiadevv&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gmaiadevv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gmaiadevv/gmaiadevv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🎯 Objetivos
-
-```text
-$ ./future.sh
-
-[✓] Construir uma base sólida em programação
-[✓] Aprender Java
-[✓] Criar meus primeiros projetos
-[✓] Aprender Git & GitHub
-[✓] Desenvolver conhecimentos em SQL
-
-[ ] Aprofundar Java
-[ ] Desenvolver projetos maiores
-[ ] Evoluir em desenvolvimento backend
-[ ] Aprimorar conhecimentos em banco de dados
-[ ] Conseguir minha primeira oportunidade em TI
-
-> STATUS: BUILDING THE FUTURE...
-```
-
----
 
 ## 📫 Conecte-se comigo
 
@@ -219,26 +84,4 @@ $ ./future.sh
 
 </div>
 
-<div align="center">
 
-**GitHub:** [@gmaiadevv](https://github.com/gmaiadevv)
-
-**LinkedIn:** [gustavo-maia-serrano](https://www.linkedin.com/in/gustavo-maia-serrano)
-
-**E-mail:** [gustavom.serranoo@gmail.com](mailto:gustavom.serranoo@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 `while(alive) { learn(); build(); improve(); }`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00E5FF,50:171717,100:050505" width="100%"/>
-
-<sub>Built with ☕, curiosity and code.</sub>
-
-</div>
